@@ -5,12 +5,12 @@ with open("README.md") as fh:
 
 setuptools.setup(
     name = "Interpretability",
-    version = "0.0.2",
+    version = "0.0.3",
     author = "Emile Givental",
     author_email = "emilegivental@gmail.com",
     description="A selection of interpretable methods with logging and printouts",
     long_description=long_description,
-    url="https://github.com/egivental/resetInterpretability",
+    url = 'https://github.com/egivental/interpretablePackage',
     packages = setuptools.find_packages(),
     install_requires = ['Prettytable>=0.7.2', 'pandas>=0.24.2', 'numpy>=1.16.4', 'sklearn>=0.0'],
     classifiers=[

@@ -1,7 +1,8 @@
+## import statements
 from interpretability import CORELS, SLIM
 import numpy as np
 import random
-
+## script
 if __name__ == "__main__":
     dataset = "mammo"
     

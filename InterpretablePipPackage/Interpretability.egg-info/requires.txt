@@ -1,0 +1,5 @@
+cplex>=12.9.0.0
+Prettytable>=0.7.2
+pandas>=0.24.2
+numpy>=1.16.4
+sklearn>=0.0

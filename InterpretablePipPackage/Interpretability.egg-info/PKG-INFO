@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: Interpretability
+Version: 0.0.2
+Summary: A selection of interpretable methods with logging and printouts
+Home-page: https://github.com/egivental/resetInterpretability
+Author: Emile Givental
+Author-email: emilegivental@gmail.com
+License: UNKNOWN
+Description: This is a library with 3 interepretable machine learning methods, wrapped with logging and side by side comparison. They can be used as normal scikit learn models, with fit, predict, and find_accuracy methods. Or, a script can be run on a data set, which will run all three and return logs and accuracies. 
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent

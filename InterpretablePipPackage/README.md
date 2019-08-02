@@ -77,10 +77,3 @@ Sample run:
         ### get_name
         ## returns the name of the model (Rudin-SLIM)
         print(sl.get_name() + " got an accuracy of: " + str(acc) +  ' and a confusion of: ' + conf)
-
-
-
-        #FUNCTIONALITY TO ADD:
-            #Data scaling
-            # Better printouts
-            # Simpler importing and Pip package
